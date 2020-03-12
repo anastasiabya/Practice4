@@ -1,0 +1,7 @@
+C:\Users\Tim\source\repos\Practice4\bin\Debug\Practice4.exe.config
+C:\Users\Tim\source\repos\Practice4\bin\Debug\Practice4.exe
+C:\Users\Tim\source\repos\Practice4\bin\Debug\Practice4.pdb
+C:\Users\Tim\source\repos\Practice4\obj\Debug\Practice4.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\Practice4\obj\Debug\Practice4.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Practice4\obj\Debug\Practice4.exe
+C:\Users\Tim\source\repos\Practice4\obj\Debug\Practice4.pdb
